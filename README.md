@@ -9,5 +9,5 @@ Based on *vitorcurtis/clang* Docker image.
 Image is hosted on Docker Hub: *vitorcurtis/r-base*. Use it as a regular docker image:
 
 ```sh
-docker run --rm -it -v %cd%:/home/jovyan/work vitorcurtis/clang
+docker run --rm -it -v %cd%:/home/jovyan/work vitorcurtis/r-base
 ```
